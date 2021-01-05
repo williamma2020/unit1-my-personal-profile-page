@@ -9,7 +9,7 @@ body{
 }
 h1{
   font-family: cursive;
-  font: size 20px;
+  font-size:xx-large;
   padding:5px;
 
 }
@@ -19,12 +19,12 @@ h1{
 
 }
 
-ul.skills {
+div.skills {
   padding: 0;
   text-align: left;
 }
 
-.skills li {
+.skills h4 {
   border-radius: 5px;
   display: inline-block;
   background: #856809;
